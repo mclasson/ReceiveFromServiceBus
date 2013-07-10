@@ -1,0 +1,12 @@
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\bin\Debug\ReceiveFromServiceBus.exe.config
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\bin\Debug\ReceiveFromServiceBus.exe
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\bin\Debug\ReceiveFromServiceBus.pdb
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\bin\Debug\Microsoft.ServiceBus.dll
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\bin\Debug\Microsoft.ServiceBus.xml
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\obj\Debug\ReceiveFromServiceBus.csprojResolveAssemblyReference.cache
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\obj\Debug\ReceiveFromServiceBus.Form1.resources
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\obj\Debug\ReceiveFromServiceBus.Properties.Resources.resources
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\obj\Debug\ReceiveFromServiceBus.csproj.GenerateResource.Cache
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\obj\Debug\ReceiveFromServiceBus.exe
+X:\Google Drive\C#\ReceiveFromServiceBus\ReceiveFromServiceBus\obj\Debug\ReceiveFromServiceBus.pdb
